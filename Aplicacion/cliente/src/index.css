@@ -1,0 +1,31 @@
+.container{
+  margin-top: 15vh;
+}
+.app {
+  text-align: center;
+  border-radius: 1%;
+}
+
+.task-input {
+  margin-top: 2rem;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #7d086e;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem 0;
+}
+
+button {
+  background-color: #3b37b0;
+  color: #000000;
+  border: none;
+  border: 20lvi;
+  padding: 0.25rem 2rem;
+  cursor: pointer;
+  
+}
+
